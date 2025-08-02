@@ -12,7 +12,7 @@ class Pessoa(var nome: String, var idade: Int) {
 
 fun main() {
     val dataPessoa = DataPessoa("Gleryston Matos", 31)
-    println(dataPessoa);
+    println(dataPessoa)
 
     val pessoa = Pessoa("Gleryston Matos", 31)
     println(pessoa)
